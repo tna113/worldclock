@@ -3,10 +3,14 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ImgtickComponent } from './src/app/_components/imgtick/imgtick.component';
+import { ClockComponent } from './_components/clock/clock.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ImgtickComponent,
+    ClockComponent
   ],
   imports: [
     BrowserModule,
