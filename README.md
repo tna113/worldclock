@@ -4,7 +4,7 @@ A simple world clock. <br>
 
 ### Technologies
 
-Trello (https://trello.com/b/lGlOiQp1/worldclock) <br>
-HTML, CSS, JavaScript <br>
-Angular framework <br>
-Adobe Illustrator <br>
+Project Management: Trello (https://trello.com/b/lGlOiQp1/worldclock) <br>
+Front-end: HTML, CSS, JavaScript <br>
+Framework: Angular framework <br>
+Design: Adobe Illustrator <br>
