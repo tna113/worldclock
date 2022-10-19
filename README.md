@@ -6,8 +6,11 @@ A simple world clock. <br>
 <b>Trello</b> (https://trello.com/b/lGlOiQp1/worldclock) <br>
 <sup><i>Project Management</i></sup>
 
-Front-End: HTML, CSS, JavaScript <br>
+<b>HTML, CSS, JavaScript</b> <br>
+<sup><i>Front-end</i></sup>
 
-Framework:  Angular framework <br>
+<b>Angular</b> <br>
+<sup><i>Framework</i></sup>
 
-Design: Adobe Illustrator <br>
+<b>Adobe Illustrator</b>
+<sup><i>Graphic Design</i></sup>
