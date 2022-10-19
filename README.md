@@ -12,5 +12,5 @@ A simple world clock. <br>
 <b>Angular</b> <br>
 <sup><i>Framework</i></sup>
 
-<b>Adobe Illustrator</b>
+<b>Adobe Illustrator</b> <br>
 <sup><i>Graphic Design</i></sup>
