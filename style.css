@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30vh;
+    text-align: center;
+}
+.imgtick img {
+    /* 0-1-1 css specificity weight */
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+}
+
